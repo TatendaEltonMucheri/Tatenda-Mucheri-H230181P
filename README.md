@@ -1,7 +1,5 @@
-This project facilitates a student login system where individuals can enter their Registration Number and Password into a secure login form. Upon submission, the program authenticates the user's credentials. If verified, the system displays the student's Registration Number and Name.
+This project develops a secure student login system. Students input their Registration Number and Password. The system verifies credentials. If successful, it displays the student's details.
 
-In instances where a student is not registered, they are prompted to complete a Registration form, the details of which are then securely stored in the database. Following this process, the student is redirected to the login page to authenticate their account.
+Unregistered students must complete a Registration form. Their information is stored securely. After registration, they can log in.
 
-Technologies utilized: MySQL Connector (to establish a connection between the Java application and XAMPP for PHPMyAdmin).
-
-Authentication details employed: (RegNum: "H230181P") (Password: "Tatenda").
+Technologies used: MySQL Connector (connecting Java to XAMPP's PHPMyAdmin). Authentication details: (RegNum: "H230181P") (Password: "Tatenda").
